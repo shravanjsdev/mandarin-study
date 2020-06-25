@@ -1,0 +1,24 @@
+# Tones
+
+There are 4 tones present in mandarin language:
+1. High     ->     | ------ |  High voice        Example: ā (straight line above a)  
+                   |        |  Medium voice
+                   |        |  Low voice
+
+2. Rising   ->     |  /-----|  High voice        Example: á (Raising line above a)
+                   |_/      |
+                   |        |
+
+3. Low      ->     |        |  High voice        Example: ǎ (Falling from low further and increasing to medium tone)
+                   |       /|  Medium voice
+                   |-.__.-' |  Low voice
+
+4. Falling  ->     |`\       |  High voice       Example: à (Falling from high tone to low tone)
+                   |  `\     |  Medium voicâ
+                   |    `\   |  Low voice
+
+Examples: 
+1. High tone - mā (Maaaaaahhh)   - Mother
+2. Low tone  - mǎ (Mhae eaa aah) - Horse
+3. Raising   - má (Mhe aaaaaah)  - Hemp
+4. Falling   - mà (Mhae)         - To scold
